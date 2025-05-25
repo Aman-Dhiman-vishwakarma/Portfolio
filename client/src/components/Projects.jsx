@@ -37,6 +37,13 @@ const projects = [
     desc: "A Twiter Clone.",
     githublink: "https://github.com/Aman-Dhiman-vishwakarma/Twitter-Clone",
   },
+   {
+    title: "Portfolio Website",
+    tech: "React, Redux Toolkit, Tailwind",
+    desc: "A Portfolio Website for work.",
+    githublink: "https://github.com/Aman-Dhiman-vishwakarma/Portfolio",
+     projectlink: "https://portfolio-16dr.onrender.com"
+  },
   // Add more projects here
 ];
 
